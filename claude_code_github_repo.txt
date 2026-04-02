@@ -1,0 +1,3 @@
+# Github repo for Ch02 
+https://github.com/uopsdod/claude_code_treasure_game/tree/initial
+
